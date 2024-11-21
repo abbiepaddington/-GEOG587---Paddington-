@@ -10,7 +10,7 @@ Objectives:
 
 Key Data and Methods:
 - Data Sources: Digital Elevation Models (DEM), pedestrian network data, and Calgary's planned bike routes.
-- GIS Analysis**:
+- GIS Analysis:
   - Perform slope analysis to classify terrain into three categories: Easy (1–5 degrees), Moderate (5–30 degrees), and Hard (30–90 degrees).
   - Create accessible zones around train stations using GIS buffers to visualize reachability within 5–15 minutes by bike.
   - Overlay planned bike routes and pedestrian paths for comprehensive analysis.
