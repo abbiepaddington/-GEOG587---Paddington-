@@ -1,1 +1,9 @@
+# Import necessary libraries
+import pandas as pd
 
+# Load the dataset
+data = pd.read_csv('/Users/abbie/Desktop/OneDrive_1_2024-11-20')
+
+# Perform data analysis
+summary = data.describe()
+print(summary)
